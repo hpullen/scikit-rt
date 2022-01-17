@@ -1,3 +1,8 @@
+# This repo is no longer active. Please go to https://github.com/scikit-rt/scikit-rt for latest version.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 # scikit-rt
 
 A suite of tools for loading, plotting, and analysing medical imaging data.
